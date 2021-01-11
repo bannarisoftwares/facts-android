@@ -9,6 +9,12 @@ class Facts : Application() {
         instance = this
     }
 
+    
+    
+    
+    
+    
+    
     companion object {
         private var instance: Facts? = null
 
